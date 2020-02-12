@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Python SDL2 bindings"
+name = "pysdl2"
+optional = false
+python-versions = "*"
+version = "0.9.6"
+
+[metadata]
+content-hash = "c1de2346a73c694111b1cb7899f75631354b37876c436925dfb2b72d822df641"
+python-versions = "^3.7"
+
+[metadata.hashes]
+pysdl2 = ["b52acab5493a77b08c2afee1f385769fc2005f17cfeaf1886eff22dc78da2123"]

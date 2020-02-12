@@ -1,0 +1,16 @@
+#1 PRIORITY: FIX THE SPECIES SELECTION SO IT PROPERLY LOOPS!!!!!!!!!!!!!!!!!
+ideas for such a thing: move species selection to individual script?
+
+
+talk function
+
+male/female dragon choice. could take some time to implement, would have to edit some text strings. 1/2 way finished. need to add the text string variable.
+
+personality function?
+
+
+saving, eventually. unknown if possible on replit/unknown if possible in general.
+
+if stats/inventory are checked while inventory is empty, crash occurs, fix this.
+
+find someone to help debug
